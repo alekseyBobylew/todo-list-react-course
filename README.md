@@ -8,4 +8,4 @@
 - React Router
 - Axios
 - classnames
-![screen](https://user-images.githubusercontent.com/91273773/150125788-a55bc270-a117-4406-8e3b-7205e0808d3d.png)
+
